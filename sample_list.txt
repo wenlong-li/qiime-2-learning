@@ -1,0 +1,7 @@
+sample-id	absolute-filepath
+GN1f1	/home/liwenlong/qiime-personal-list/metadata/GN1f1/GN1f1.fastq
+GN1f2	/home/liwenlong/qiime-personal-list/metadata/GN1f2/GN1f2.fastq
+GN1f3	/home/liwenlong/qiime-personal-list/metadata/GN1f3/GN1f3.fastq
+GN2f1	/home/liwenlong/qiime-personal-list/metadata/GN2f1/GN2f1.fastq
+GN2f2	/home/liwenlong/qiime-personal-list/metadata/GN2f2/GN2f2.fastq
+GN2f3	/home/liwenlong/qiime-personal-list/metadata/GN2f3/GN2f3.fastq
